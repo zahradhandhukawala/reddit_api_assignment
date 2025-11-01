@@ -1,4 +1,11 @@
-reddit.env
+
+# Secrets !!!!
 .env
+*.env
+*.env.*
+*.enc
+reddit*.env
+
+# Usual local stuff !!!!
 venv/
 __pycache__/
